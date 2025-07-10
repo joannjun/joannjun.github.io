@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing:
+  contents: project # name of the folder
+  type: default
+  sort:
+    - "date"
+    - "title desc"
+---
+

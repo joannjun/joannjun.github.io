@@ -1,0 +1,27 @@
+---
+title: "Joann Jun"
+about:
+  template: jolla
+  image: assets/profile.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:joannjun01@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/joannjun
+---
+
+Welcome to my website! I am a rising senior at the University of Connecticut majoring in statistical data science and minoring in mathematics.
+
+In my free time I like to try and make new foods. I also enjoy hiking.
+
+```{python}
+
+#| eval: false
+#| 
+print("Hello World")
+
+```
+

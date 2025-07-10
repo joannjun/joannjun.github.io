@@ -1,0 +1,20 @@
+---
+title: "EDA"
+desceiprion: "This is my summer 2025 EDA project"
+date: "June 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/joannjun/cmueda"
+    - icon: easel
+      text: "Slides"
+      href: "file:///C:/Users/joann/OneDrive/Documents/cmu/cmueda/Jun/eda_pres.html#/title-slide"
+---
+
+This is my EDA project...
+
+Some info...

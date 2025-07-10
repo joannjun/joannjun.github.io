@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Joann Jun"
+  navbar:
+    background: (#000E2F)
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Project
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/joann-jun/
+        target: blank
+      - icon: cash
+        href: https://www.venmo.com/Joann-Jun
+        target: blank
+      - icon: github
+        href: https://github.com/joannjun
+        target: blank
+      - icon: file-pdf
+        href: assets/Resume.pdf
+        target: blank
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+- execute:
+  freeze: auto
+  
