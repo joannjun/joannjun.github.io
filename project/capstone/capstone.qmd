@@ -1,0 +1,21 @@
+---
+title: "Capstone Project Title"
+desceiprion: "This is my summer 2025 capstone project"
+date: "July 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg # need to name this like this
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/joannjun/capstone"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com"
+    - icon: file-code
+      text: "Report"
+      href: "https://youtube.com"
+    
+---
+
