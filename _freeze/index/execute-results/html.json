@@ -1,0 +1,12 @@
+{
+  "hash": "901bb2c0489d7f968629a56c88a1891e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Joann Jun\"\nabout:\n  template: jolla\n  image: assets/profile.jpg\n  image-shape: round\n  links:\n    - icon: envelope\n      text: Email\n      href: mailto:joannjun01@gmail.com\n    - icon: github\n      text: Github\n      href: https://github.com/joannjun\n---\n\n\n\n\nWelcome to my website! I am a rising senior at the University of Connecticut majoring in statistical data science and minoring in mathematics.\n\nIn my free time I like to try and make new foods. I also enjoy hiking.\n\n::: {#f7f64391 .cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Hello World\")\n```\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
