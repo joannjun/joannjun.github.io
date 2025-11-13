@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: projects.qmd
-        text: Project
+        text: Projects
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/joann-jun/
