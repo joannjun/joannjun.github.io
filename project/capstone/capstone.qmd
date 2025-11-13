@@ -1,4 +1,4 @@
-gi---
+---
 title: "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level" # troublshoot
 desceiprion: "Healthcare, Mental Health, County, Machine Learning, Quasi-Poisson, Chloropleth Maps"
 date: "July 25, 2025"
