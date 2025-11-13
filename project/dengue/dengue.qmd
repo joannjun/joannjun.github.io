@@ -1,0 +1,14 @@
+---
+title: "Dengue Fever"
+desceiprion: "Dengue Fever"
+date: "April 28, 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/ds-uconn/final-project-joannjun"
+---
+
