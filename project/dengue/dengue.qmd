@@ -1,0 +1,43 @@
+---
+
+title: "Dengue Fever"
+
+desceiprion: "Healthcare, Mental Health"
+
+date: "May 2025"
+
+resources: "."
+
+about:
+
+template: solana
+
+image: cover.jpg \# need to name this like this
+
+links:
+
+ - icon: github
+
+text: "GitHub"
+
+href: "https://github.com/joannjun/capstone"
+
+ - icon: file-earmark-slides
+
+text: "Slides"
+
+href: "https://docs.google.com/presentation/d/1c_2PT85sduO3Id_yPoAwH8GdUNIggbkzXoMC3EFNOqg/edit"
+
+ - icon: file-code
+
+text: "Report"
+
+href: "https://www.stat.cmu.edu/cmsac/sure/2025/showcase/mental_health/report.html"
+
+ - icon: easel2
+
+text: "Poster"
+
+href: "https://www.stat.cmu.edu/cmsac/sure/2025/showcase/mental_health/poster.pdf"
+
+---
