@@ -1,7 +1,7 @@
 ---
-title: "Capstone Project Title"
-desceiprion: "This is my summer 2025 capstone project"
-date: "July 2025"
+title: "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level" # troublshoot
+desceiprion: "Healthcare, Mental Health, County, Machine Learning, Quasi-Poisson, Chloropleth Maps"
+date: "July 25, 2025"
 resources: "."
 about:
   template: solana
@@ -10,12 +10,17 @@ about:
     - icon: github
       text: "GitHub"
       href: "https://github.com/joannjun/capstone"
-    - icon: easel
+    - icon: file-earmark-slides
       text: "Slides"
-      href: "https://docs.google.com"
+      href: "https://docs.google.com/presentation/d/1c_2PT85sduO3Id_yPoAwH8GdUNIggbkzXoMC3EFNOqg/edit"
     - icon: file-code
       text: "Report"
-      href: "https://youtube.com"
+      href: "https://www.stat.cmu.edu/cmsac/sure/2025/showcase/mental_health/report.html"
+    - icon: easel2
+      text: "Poster"
+      href: "https://www.stat.cmu.edu/cmsac/sure/2025/showcase/mental_health/poster.pdf"
     
 ---
+
+This project explores how access to mental health professionals affects community well-being. It analyzes the relationship between provider availability and poor mental health days using quasi-Poisson regression and machine learning models (XGBoost, Random Forest, and K-Nearest Neighbors) to predict outcomes and identify the most significant contributing factors.
 
