@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Dengue Fever\n\n\n\n\n\n\n\n\nApr 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEDA\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project Title\n\n\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Dengue Fever\n\n\n\n\n\n\n\n\nApr 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal Healthcare Disparities\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project Title\n\n\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project/eda/eda.html",
     "href": "project/eda/eda.html",
-    "title": "EDA",
+    "title": "Maternal Healthcare Disparities",
     "section": "",
-    "text": "This is my EDA project…\nSome info…"
+    "text": "This project investigates differences in maternal health across states, focusing on factors such as body mass index (BMI) and prenatal care. We explored whether certain states have higher BMI and how the number of prenatal care visits relates to maternal health risk factors like diabetes, hypertension, and tobacco use. The analysis includes cluster analysis using PCA, visualizations with choropleth maps, and comparisons using boxplots to highlight regional disparities."
   },
   {
     "objectID": "index.html",
