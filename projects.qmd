@@ -4,7 +4,7 @@ listing:
   contents: project # name of the folder
   type: default
   sort:
-    - "date"
+    - "date desc"
     - "title desc"
 ---
 
