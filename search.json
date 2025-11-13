@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Dengue Fever\n\n\n\n\n\n\n\n\nApr 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal Healthcare Disparities\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project Title\n\n\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Dengue Fever\n\n\n\n\n\n\n\n\nApr 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal Healthcare Disparities\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Link Between Mental Health Provider Density and Poor Mental Health at the County Level\n\n\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project/eda/eda.html",
@@ -19,5 +19,12 @@
     "title": "Joann Jun",
     "section": "",
     "text": "Welcome!\nHi, I’m Joann Jun — a senior studying Statistical Data Science and Mathematics at the University of Connecticut. I love solving problems through data and bringing stories to life with numbers. I’m passionate about transforming raw data into clear insights that help people make better decisions, and I’m eager to apply these skills in data analyst and data scientist roles.\nWhen I’m not working with data, you’ll probably find me baking something new or hiking a local trail."
+  },
+  {
+    "objectID": "project/capstone/capstone.html",
+    "href": "project/capstone/capstone.html",
+    "title": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level",
+    "section": "",
+    "text": "This project explores how access to mental health professionals affects community well-being. It analyzes the relationship between provider availability and poor mental health days using quasi-Poisson regression and machine learning models (XGBoost, Random Forest, and K-Nearest Neighbors) to predict outcomes and identify the most significant contributing factors."
   }
 ]
