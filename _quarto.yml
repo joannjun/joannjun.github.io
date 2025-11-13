@@ -4,7 +4,7 @@ project:
 website:
   title: "Joann Jun"
   navbar:
-    background: (#000E2F)
+    background: (#FFF8DC)
     left:
       - href: index.qmd
         text: Home
@@ -13,9 +13,6 @@ website:
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/joann-jun/
-        target: blank
-      - icon: cash
-        href: https://www.venmo.com/Joann-Jun
         target: blank
       - icon: github
         href: https://github.com/joannjun

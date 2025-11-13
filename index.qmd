@@ -13,15 +13,9 @@ about:
       href: https://github.com/joannjun
 ---
 
-Welcome to my website! I am a rising senior at the University of Connecticut majoring in statistical data science and minoring in mathematics.
+# Welcome!
 
-In my free time I like to try and make new foods. I also enjoy hiking.
+Hi, I’m Joann Jun — a senior studying Statistical Data Science and Mathematics at the University of Connecticut. I love solving problems through data and bringing stories to life with numbers. I’m passionate about transforming raw data into clear insights that help people make better decisions, and I’m eager to apply these skills in data analyst and data scientist roles.
 
-```{python}
-
-#| eval: false
-#| 
-print("Hello World")
-
-```
+When I’m not working with data, you’ll probably find me baking something new or hiking a local trail.
 
