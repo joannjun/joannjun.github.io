@@ -12,3 +12,4 @@ about:
       href: "https://github.com/ds-uconn/final-project-joannjun"
 ---
 
+This project investigates patterns and predictors of dengue fever outbreaks in tropical and subtropical regions. Using environmental and temporal data, I performed exploratory analysis, including yearly trends, city-level case distributions, and correlations among environmental features. Predictive modeling was conducted with machine learning algorithms, including XGBoost and Random Forest, to forecast dengue cases. The project also explores data visualization approaches, such as bar charts, correlation matrices, and interactive Shiny applications, to better understand how factors like precipitation, temperature, and NDVI influence outbreak dynamics.
