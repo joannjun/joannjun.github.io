@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/project/dengue/dengue.html",
       "/project/eda/eda.html",
       "/project/capstone/capstone.html"
     ]
