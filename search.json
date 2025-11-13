@@ -4,14 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "EDA\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project Title\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joann Jun",
-    "section": "",
-    "text": "Welcome to my website! I am a rising senior at the University of Connecticut majoring in statistical data science and minoring in mathematics.\nIn my free time I like to try and make new foods. I also enjoy hiking.\n\nprint(\"Hello World\")"
+    "text": "EDA\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project Title\n\n\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project/eda/eda.html",
@@ -19,5 +12,12 @@
     "title": "EDA",
     "section": "",
     "text": "This is my EDA project…\nSome info…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joann Jun",
+    "section": "",
+    "text": "Welcome!\nHi, I’m Joann Jun — a senior studying Statistical Data Science and Mathematics at the University of Connecticut. I love solving problems through data and bringing stories to life with numbers. I’m passionate about transforming raw data into clear insights that help people make better decisions, and I’m eager to apply these skills in data analyst and data scientist roles.\nWhen I’m not working with data, you’ll probably find me baking something new or hiking a local trail."
   }
 ]
