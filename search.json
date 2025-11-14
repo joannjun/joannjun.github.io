@@ -7,18 +7,11 @@
     "text": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level\n\n\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal Healthcare Disparities\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDengue Fever\n\n\n\n\n\n\n\n\nApr 28, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "project/eda/eda.html",
-    "href": "project/eda/eda.html",
-    "title": "Maternal Healthcare Disparities",
+    "objectID": "project/capstone/capstone.html",
+    "href": "project/capstone/capstone.html",
+    "title": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level",
     "section": "",
-    "text": "This project investigates differences in maternal health across states, focusing on factors such as body mass index (BMI) and prenatal care. We explored whether certain states have higher BMI and how the number of prenatal care visits relates to maternal health risk factors like diabetes, hypertension, and tobacco use. The analysis includes cluster analysis using PCA, visualizations with choropleth maps, and comparisons using boxplots to highlight regional disparities."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joann Jun",
-    "section": "",
-    "text": "Welcome!\nHi, I’m Joann Jun — a senior studying Statistical Data Science and Mathematics at the University of Connecticut. I love solving problems through data and bringing stories to life with numbers. I’m passionate about transforming raw data into clear insights that help people make better decisions, and I’m eager to apply these skills in data analyst and data scientist roles.\nWhen I’m not working with data, you’ll probably find me baking something new or hiking a local trail."
+    "text": "This project explores how access to mental health professionals affects community well-being. It analyzes the relationship between provider availability and poor mental health days using quasi-Poisson regression and machine learning models (XGBoost, Random Forest, and K-Nearest Neighbors) to predict outcomes and identify the most significant contributing factors."
   },
   {
     "objectID": "project/dengue/dengue.html",
@@ -28,10 +21,17 @@
     "text": "This project investigates patterns and predictors of dengue fever outbreaks in tropical and subtropical regions. Using environmental and temporal data, I performed exploratory analysis, including yearly trends, city-level case distributions, and correlations among environmental features. Predictive modeling was conducted with machine learning algorithms, including XGBoost and Random Forest, to forecast dengue cases. The project also explores data visualization approaches, such as bar charts, correlation matrices, and interactive Shiny applications, to better understand how factors like precipitation, temperature, and NDVI influence outbreak dynamics."
   },
   {
-    "objectID": "project/capstone/capstone.html",
-    "href": "project/capstone/capstone.html",
-    "title": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joann Jun",
     "section": "",
-    "text": "This project explores how access to mental health professionals affects community well-being. It analyzes the relationship between provider availability and poor mental health days using quasi-Poisson regression and machine learning models (XGBoost, Random Forest, and K-Nearest Neighbors) to predict outcomes and identify the most significant contributing factors."
+    "text": "Welcome!\nHi, I’m Joann Jun — a senior studying Statistical Data Science and Mathematics at the University of Connecticut. I love solving problems through data and bringing stories to life with numbers. I’m passionate about transforming raw data into clear insights that help people make better decisions, and I’m eager to apply these skills in data analyst and data scientist roles.\nWhen I’m not working with data, you’ll probably find me baking something new or hiking a local trail."
+  },
+  {
+    "objectID": "project/eda/eda.html",
+    "href": "project/eda/eda.html",
+    "title": "Maternal Healthcare Disparities",
+    "section": "",
+    "text": "This project investigates differences in maternal health across states, focusing on factors such as body mass index (BMI) and prenatal care. We explored whether certain states have higher BMI and how the number of prenatal care visits relates to maternal health risk factors like diabetes, hypertension, and tobacco use. The analysis includes cluster analysis using PCA, visualizations with choropleth maps, and comparisons using boxplots to highlight regional disparities."
   }
 ]

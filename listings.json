@@ -6,5 +6,9 @@
       "/project/eda/eda.html",
       "/project/dengue/dengue.html"
     ]
+  },
+  {
+    "listing": "/about.html",
+    "items": []
   }
 ]
