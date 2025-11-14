@@ -1,0 +1,19 @@
+---
+title: "About"
+listing:
+  contents: about # name of the folder
+  type: default
+  sort:
+    - "date desc"
+    - "title desc"
+---
+
+
+# Areas of Interest
+
+## Statistical Analysis
+
+## Data Visualization
+
+## Machine Learning
+

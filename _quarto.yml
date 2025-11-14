@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: projects.qmd
         text: Projects
     right:
@@ -17,7 +19,7 @@ website:
       - icon: github
         href: https://github.com/joannjun
         target: blank
-      - icon: file-pdf
+      - icon: file-earmark-person
         href: assets/Resume.pdf
         target: blank
 
