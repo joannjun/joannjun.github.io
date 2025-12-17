@@ -12,7 +12,7 @@ about:
       href: "https://github.com/joannjun/cmueda"
     - icon: file-earmark-slides
       text: "Slides"
-      href: "eda_pres.pdf"
+      href: "project/eda/eda_pres.pdf"
 ---
 
 This project investigates differences in maternal health across states, focusing on factors such as body mass index (BMI) and prenatal care. We explored whether certain states have higher BMI and how the number of prenatal care visits relates to maternal health risk factors like diabetes, hypertension, and tobacco use. The analysis includes cluster analysis using PCA, visualizations with choropleth maps, and comparisons using boxplots to highlight regional disparities.
