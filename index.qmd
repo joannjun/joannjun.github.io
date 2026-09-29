@@ -15,8 +15,6 @@ about:
 
 # Welcome!
 
-# Welcome!
-
 Hi, I’m Joann Jun, a Statistical Data Science graduate from the University of Connecticut with a minor in Mathematics. I enjoy solving problems through data and turning complex information into clear, meaningful insights. My experience spans statistical modeling, machine learning, data visualization, and analytics, with a particular interest in using data to support better business and healthcare decisions.
 
 Through academic projects, leadership experiences, and my work with the UnitedHealth Group Bridges to Healthcare Technology Program, I’ve developed experience working with real-world datasets, building predictive models, and communicating findings to both technical and non-technical audiences. I’m currently exploring opportunities in data analytics and data science where I can continue learning, solve meaningful problems, and turn data into actionable insights.
