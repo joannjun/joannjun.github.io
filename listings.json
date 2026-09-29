@@ -1,14 +1,14 @@
 [
   {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/project/capstone/capstone.html",
       "/project/eda/eda.html",
       "/project/dengue/dengue.html"
     ]
-  },
-  {
-    "listing": "/about.html",
-    "items": []
   }
 ]
