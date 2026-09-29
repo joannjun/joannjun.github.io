@@ -1,11 +1,11 @@
 ---
 title: "Digital Advertising Performance Across Platforms x Campaign Type (Google, Meta, TikTok Ads)"
 desceiprion: "Marketing, TikTok, Meta, Google, Greedy Algorithm, Optimization"
-date: "June 17, 2025"
+date: "March 31, 2026"
 resources: "."
 about:
   template: solana
-  image: cover.jpg
+  image: cover.png
   links:
     - icon: github
       text: "GitHub"
