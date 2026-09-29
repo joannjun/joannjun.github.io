@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://joannjun.github.io/about.html</loc>
-    <lastmod>2026-09-29T18:36:31.233Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joannjun.github.io/project/capstone/capstone.html</loc>
-    <lastmod>2026-09-29T18:36:31.236Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joannjun.github.io/index.html</loc>
-    <lastmod>2026-09-29T18:36:31.234Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joannjun.github.io/projects.html</loc>
-    <lastmod>2026-09-29T18:36:31.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joannjun.github.io/project/eda/eda.html</loc>
-    <lastmod>2026-09-29T18:36:31.236Z</lastmod>
+    <lastmod>2026-09-29T18:50:30.283Z</lastmod>
   </url>
   <url>
     <loc>https://joannjun.github.io/project/dengue/dengue.html</loc>
-    <lastmod>2026-09-29T18:36:31.236Z</lastmod>
+    <lastmod>2026-09-29T18:50:30.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannjun.github.io/project/eda/eda.html</loc>
+    <lastmod>2026-09-29T18:50:30.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannjun.github.io/projects.html</loc>
+    <lastmod>2026-09-29T18:50:30.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannjun.github.io/index.html</loc>
+    <lastmod>2026-09-29T18:50:30.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannjun.github.io/project/capstone/capstone.html</loc>
+    <lastmod>2026-09-29T18:50:30.286Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannjun.github.io/project/marketing/marketing.html</loc>
+    <lastmod>2026-09-29T18:50:30.296Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,21 @@
+---
+title: "Digital Advertising Performance Across Platforms x Campaign Type (Google, Meta, TikTok Ads)"
+desceiprion: "Marketing, TikTok, Meta, Google, Greedy Algorithm, Optimization"
+date: "June 17, 2025"
+resources: "."
+about:
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/uconn-stat/proposal-latex-repo-joannjun"
+    - icon: file-earmark-slides
+      text: "Slides"
+      href: "https://drive.google.com/file/d/1KHA3wnrO0yuAaR62bZ4ZHdam-sK6ATdl/view?usp=sharing"
+    - icon: file-code
+      text: "Report"
+      href: "https://drive.google.com/file/d/1djUU5CoLIlXqOC0p2i1sBVYBkWOLX3IO/view?usp=sharing"
+---
+
+This project explores digital advertising performance across Google, Meta, and TikTok, examining how platform and campaign type influence exposure, engagement, and financial outcomes. Using multivariate statistical analysis, data visualization, and a greedy budget optimization algorithm, I identified performance patterns and developed a data-driven approach to allocating a $30,000 advertising budget.
